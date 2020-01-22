@@ -1,0 +1,8 @@
+Different types of correlation
+Correcting probability after upsampling
+SMOTE
+
+Ideal number of folds
+Random feature engineering
+Logistic regression converge
+Variable importance metrics
