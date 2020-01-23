@@ -4,5 +4,5 @@ SMOTE
 
 Ideal number of folds
 Random feature engineering
-Logistic regression converge
+Logistic regression converge (uses the newton-raphson method)
 Variable importance metrics
